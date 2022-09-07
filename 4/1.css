@@ -1,0 +1,66 @@
+.part_two{
+
+}
+.logo
+   {
+     text-indent: -99999999px;
+     background: url(logo.png);
+     width: 250px;
+     height: 250px;
+   }
+/* form_1 style */
+.form_1{
+  position: absolute;
+  bottom: -70px;
+
+}
+.form_D{
+  position: absolute;
+  top: 250px;
+}
+.account{
+  position: absolute;
+  top: 150px;
+  left: 16px;
+  color: white;
+}
+.form_logout{
+  position: absolute;
+  bottom: -70px;
+}
+.update{
+  position: absolute;
+  top: 150px;
+  left: 16px;
+  color: white;
+}
+.delete{
+  position: absolute;
+  top: 150px;
+  left: 16px;
+  color: white;
+}
+.add_holiday{
+  position: absolute;
+  top: 150px;
+  left: 16px;
+  color: white;
+}
+.up_holiday{
+  position: absolute;
+  top: 150px;
+  left: 16px;
+  color: white;
+}
+.de_holiday{
+  position: absolute;
+  top: 150px;
+  left: 16px;
+  color: white;
+}
+.report_1{
+  position: absolute;
+  top: 150px;
+  left: 16px;
+  color: white;
+}
